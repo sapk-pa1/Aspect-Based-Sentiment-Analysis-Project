@@ -2,8 +2,7 @@
 
 ## Overview
 
-Aspect Based Sentiment Analysis (ABSA) is a natural language processing (NLP) technique that aims to identify and analyze sentiments associated with specific aspects or attributes of a product, service, or topic. This README.md file provides an introduction to ABSA and outlines how to use it.
-
+Aspect Based Sentiment Analysis (ABSA) is a natural language processing (NLP) technique that aims to identify and analyze sentiments associated with specific aspects or attributes of a product, service, or topic. 
 ## Table of Contents
 
 - [Introduction](#introduction)
